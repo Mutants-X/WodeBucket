@@ -1,0 +1,13 @@
+{
+    "homepage":"https://shurufa.baidu.com/",
+    "description":"Baidushurufa App for Windows",
+    "version":"5.5",
+    "url":"https://speedxbu.baidu.com/shurufa/ime/setup/BaiduPinyinSetup_5.5.5009.0.exe#/dl.7z",
+    "shortcuts":[
+        [
+            "baidupinyin.exe",
+            "百度输入法"
+        ]
+    ],
+    "install":{}
+}
