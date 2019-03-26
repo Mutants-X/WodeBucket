@@ -1,0 +1,13 @@
+{
+    "homepage":"https://pc.weixin.qq.com/",
+    "description":"Tencent Wechat App for Windows",
+    "version":"2.6.7",
+    "url":"https://dldir1.qq.com/weixin/Windows/WeChatSetup.exe#/dl.7z",
+    "shortcuts":[
+        [
+            "wechat.exe",
+            "wechat"
+        ]
+    ],
+    "install":{}
+}
