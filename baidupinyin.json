@@ -5,7 +5,7 @@
      "bin":"baidupinyin.exe", 
      "checkver": {
          "url": "https://shurufa.baidu.com/update",
-         "regex": "百度输入法([\.\d.]+)版发布"
+         "regex": "([\.\d.]+)"
      },
      "autoupdate":"https://speedxbu.baidu.com/shurufa/ime/setup/BaiduPinyinSetup_$version.exe#/BaiduPinyin_5.5.5009.0.7z",
 }
