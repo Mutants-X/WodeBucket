@@ -1,9 +1,9 @@
 {
-     “ homepage ”：“ https://shurufa.baidu.com/ ”，
-     “ version ”：“ 5.5.5009.0 ”，
-     “ url ”：“ https://speedxbu.baidu.com/shurufa/ime/setup/BaiduPinyinSetup_5.5.5009.0.exe#/BaiduPinyin_5.5.5009.0.7z ”，
-     “ bin ”：“ baidupinyin.exe ” 
-     "autoupdate":"https://speedxbu.baidu.com/shurufa/ime/setup/BaiduPinyinSetup_$version.exe#/BaiduPinyin_5.5.5009.0.7z"
+     "homepage":"https://shurufa.baidu.com",
+     "version":"5.5.5009.0",
+     "url":"https://speedxbu.baidu.com/shurufa/ime/setup/BaiduPinyinSetup_5.5.5009.0.exe#/BaiduPinyin_5.5.5009.0.7z",
+     "bin":"baidupinyin.exe", 
+     "autoupdate":"https://speedxbu.baidu.com/shurufa/ime/setup/BaiduPinyinSetup_$version.exe#/BaiduPinyin_5.5.5009.0.7z",
      "checkver": {
     "url": "https://shurufa.baidu.com/update",
     "regex": "百度输入法(\d.\d+)版发布"
